@@ -1,0 +1,24 @@
+{
+  "name": "react-webpack-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate por React Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horaciocoronel/react-webpack-starter.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "boilerplate"
+  ],
+  "author": "Horacio Coronel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horaciocoronel/react-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/horaciocoronel/react-webpack-starter#readme"
+}
